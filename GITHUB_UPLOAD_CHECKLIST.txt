@@ -1,0 +1,7 @@
+GitHub Pages 上傳重點
+
+1. 解壓縮 ZIP。
+2. 把這一層所有檔案與資料夾直接上傳到 GitHub repository 根目錄。
+3. 不要只上傳 ZIP，也不要只上傳 index.html。
+4. 開啟網址建議加：?v=87fix36
+5. 若手機 PWA 仍是舊畫面，刪除舊 App 後重新加入主畫面。

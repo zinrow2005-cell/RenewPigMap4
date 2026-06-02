@@ -1,0 +1,68 @@
+{
+  "name": "台灣豬隻畜牧場地圖",
+  "short_name": "豬場地圖",
+  "description": "王泰山畜牧場製作，支援台灣豬隻畜牧場地圖、搜尋、GPS、導航、街景、PWA 與雲端同步。",
+  "id": "./taiwan-pig-farm-map-87fix36",
+  "start_url": "./index.html?v=87fix36",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": [
+    "fullscreen",
+    "standalone",
+    "minimal-ui"
+  ],
+  "orientation": "any",
+  "background_color": "#ecfdf5",
+  "theme_color": "#0f766e",
+  "lang": "zh-Hant-TW",
+  "categories": [
+    "business",
+    "productivity",
+    "navigation",
+    "maps"
+  ],
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "開啟地圖",
+      "short_name": "地圖",
+      "url": "./index.html?v=87fix36",
+      "icons": [
+        {
+          "src": "assets/icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "牧場資料健檢",
+      "short_name": "健檢",
+      "url": "./index.html?v=87fix36#qa",
+      "icons": [
+        {
+          "src": "assets/icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}
